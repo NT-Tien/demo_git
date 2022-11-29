@@ -1,0 +1,12 @@
+{
+  "name": "learn_1",
+  "version": "1.0.0",
+  "description": "hoidanIT",
+  "main": "server.js",
+  "scripts": {
+    "test": "none",
+    "start": "node server.js"
+  },
+  "author": "dotien",
+  "license": "ISC"
+}
